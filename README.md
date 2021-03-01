@@ -4,4 +4,4 @@
 
 Spot Clock displays live physical gold (Au) and silver (Ag) prices.
 
-*Not recommended for new designs*
+*Source code not recommended for new designs*
